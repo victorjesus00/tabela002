@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    background-color: rgba(180, 200, 181, 0.889);
+    margin-top: -7px;
+    color: rgba(0, 0, 0, 0.819);
+    display: inline-block;
+    padding: 10px;
+    border-radius: 2px;
+
+}
+
+thead{
+    border: 1px black;
+}
+
+
+table{
+    width: 700px;
+    border-collapse: collapse;
+}
+
+
+td{
+    border: 1px solid black;
+    padding: 8px;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+
+
+}
+
+.mh{
+    background-color: rgb(42, 78, 39);
+    color: aliceblue;
+}
+
+.nom{
+    background-color: rgba(255, 255, 0, 0.334);
+    color: rgb(188, 122, 22);
+}
+
+.fil{
+    font-weight: normal;
+}
+
+footer{
+    background-color: rgb(48, 96, 66);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 1px rgba(249, 249, 249, 0.752);
+    display: inline-block;
+    margin-top: 50px;
+    font-size: 20px;
+    border-radius: 70px;
+    padding: 10px;
+    border: 3px solid rgba(171, 161, 161, 0.349);
+}
